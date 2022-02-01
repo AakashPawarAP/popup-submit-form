@@ -1,0 +1,43 @@
+/* body {
+  margin: 0 auto;
+} */
+
+/* .popup {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #6f7567;
+  padding: 10px;
+} */
+
+html,
+body {
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.popup {
+  background-color: whitesmoke;
+  /* width: 450px;
+  height: 200px; */
+}
+
+#asterisk {
+  color: red;
+}
+
+#comments {
+  /* border: #fff; */
+  width: 652px;
+  height: 30px;
+  top: 291px;
+  left: 357px;
+}
