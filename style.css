@@ -30,6 +30,11 @@ body {
   height: 200px; */
 }
 
+#repoText {
+  font-size: 25px;
+  font-weight: bold;
+}
+
 #asterisk {
   color: red;
 }
@@ -40,4 +45,15 @@ body {
   height: 30px;
   top: 291px;
   left: 357px;
+  background: #f7f7f7;
+  border-radius: 3px;
+}
+
+#rb-text {
+  margin: auto;
+  padding: 10px;
+}
+
+.sub {
+  margin-left: 1110px;
 }
